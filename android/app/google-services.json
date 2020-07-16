@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "901263322327",
+    "firebase_url": "https://pirata-282100.firebaseio.com",
+    "project_id": "pirata-282100",
+    "storage_bucket": "pirata-282100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901263322327:android:3a01f0e0e00e88575e9492",
+        "android_client_info": {
+          "package_name": "io.pirata.boon0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901263322327-7vovrs70ott7g8k8gdn5hh7uv6hpdbij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo1PvFrTcshmtFO4B1xg0PpjZxxkwV44w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901263322327-7vovrs70ott7g8k8gdn5hh7uv6hpdbij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
